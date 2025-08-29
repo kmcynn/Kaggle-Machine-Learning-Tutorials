@@ -1,0 +1,22 @@
+Ayala
+* Engineered an AI-powered event automation system, reducing time spend on administrative tasks by 92%, from 1 hour to 5 minutes (via Microsoft Power Automate, Zapier, Power Apps, and Gemini API)
+
+* Assisted in the development of a Generative AI Chatbot capable of summarizing over 100+ documents (via Databricks web scraping, Amazon Textract, and AWS vectorization tools)
+ 
+* Managed AWS infrastructure by organizing S3 buckets and embedding documents within OpenAI token limits through metadata extraction and text chunking 
+
+* Built scalable ETL pipelines for the Ayala Open Data platform by extracting 1000+ daily records from RESTful APIs, performing extensive EDA on international datasets using Python to generate localized insights for the Philippines
+ 
+* Conducted strategic research under the former NEDA chief, analyzing the enterprise-wide applications of AI and advising Ayala leadership on strategies to secure approval for ChatGPT Enterprise adoption 
+
+
+AGSIP
+* Engaged in leadership training and masterclasses from executives across Ayala Corporation’s business units, including Ayala Mobility, BPI, GCash, and Globe CEOs 
+
+* Competed in the BPI x Amazon 2025 Hackathon, co-developing GCash GabAI (Gabay)—an AI-powered financial advisor app leveraging Claude AI, Microsoft Copilot, and AWS PartyRock for generative AI capabilities 
+
+UP Circuit
+* Secured key sponsorships for UP Circuit’s E-Waste Project with partner corporations Timezone, Smart, and PLDT 
+* Managed a team of over 20 people, establishing a performance tracking system using data-driven decision-making from social media metrics and secured sponsor budgets 
+
+ 
